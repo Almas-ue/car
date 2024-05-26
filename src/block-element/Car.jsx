@@ -9,7 +9,7 @@ function Car() {
           <div className="head">
             <div className="icon">
               <a href="#" className="logo_link">
-                <img src="./public/images/icon/logo.svg" alt="icon" />
+                <img src="./images/icon/logo.svg" alt="icon" />
               </a>
             </div>
             <nav className="nav">
@@ -53,7 +53,7 @@ function Car() {
           <section className="adress_block">
             <div className="item_block">
               <div className="item_inner">
-                <img src="./public/images/adress/call.svg" alt="call" />
+                <img src="./images/adress/call.svg" alt="call" />
                 <h3 className="title_item block_title">
                   CALL US NOW 222-222-222
                 </h3>
@@ -62,7 +62,7 @@ function Car() {
             </div>
             <div className="item_block">
               <div className="item_inner">
-                <img src="./public/images/adress/calendar.svg" alt="calendar" />
+                <img src="./images/adress/calendar.svg" alt="calendar" />
                 <h3 className="title_item block_title">GET FREE APPOITMET</h3>
                 <p className="info_item block_desc">
                   Free Diagnosis & Brake Checks
@@ -71,7 +71,7 @@ function Car() {
             </div>
             <div className="item_block">
               <div className="item_inner">
-                <img src="./public/images/adress/maps.svg" alt="maps" />
+                <img src="./images/adress/maps.svg" alt="maps" />
                 <h3 className="title_item block_title">FIND US ON MAP</h3>
                 <p className="info_item block_desc">
                   New York, 1286 Ruumu Nanor
@@ -93,7 +93,7 @@ function Car() {
                 <div className="item_service">
                   <figure className="img_service">
                     <img
-                      src="./public/images/service/diagnostic.svg"
+                      src="./images/service/diagnostic.svg"
                       alt="diagnostic"
                     />
                     <button className="btn_service"></button>
@@ -104,7 +104,7 @@ function Car() {
               <a href="#" className="click_service">
                 <div className="item_service">
                   <figure className="img_service">
-                    <img src="./public/images/service/tires.svg" alt="tires" />
+                    <img src="./images/service/tires.svg" alt="tires" />
                     <button className="btn_service"></button>
                     <figcaption className="name_service">
                       TIRES & WHEELS
@@ -116,7 +116,7 @@ function Car() {
                 <div className="item_service">
                   <figure className="img_service">
                     <img
-                      src="./public/images/service/engines.svg"
+                      src="./images/service/engines.svg"
                       alt="engines"
                     />
                     <button className="btn_service"></button>
@@ -149,7 +149,7 @@ function Car() {
               </div>
               <div className="about_image">
                 <img
-                  src="./public/images/understand/mechanic.svg"
+                  src="./images/understand/mechanic.svg"
                   alt="mechanic"
                 />
               </div>
