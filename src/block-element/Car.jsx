@@ -3,6 +3,7 @@ import "./../index.scss";
 
 function Car() {
   return (
+    /*Car*/
     <>
       <header className="header">
         <div className="container">
